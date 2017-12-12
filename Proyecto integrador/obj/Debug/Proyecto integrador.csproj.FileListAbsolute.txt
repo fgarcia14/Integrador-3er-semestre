@@ -1,0 +1,26 @@
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmMenu.resources
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmLogin.resources
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+c:\users\socorro\documents\visual studio 2015\Projects\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe.config
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.exe
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.pdb
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.exe
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\bin\Debug\Proyecto integrador.pdb
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csprojResolveAssemblyReference.cache
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmMenu.resources
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmACartaCons.resources
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmLogin.resources
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.Properties.Resources.resources
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto integrador.csproj.GenerateResource.Cache
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmAñadir.resources
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmBuscar.resources
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmAgenda.resources
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador._frmContabilidad.resources
+C:\Users\Fidel\Google Drive\UCOL\3er Semestre\Proyecto integrador\Programación Visual\Proyecto integrador\Proyecto integrador\obj\Debug\Proyecto_integrador.frmMostrarCartaCons.resources
